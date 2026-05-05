@@ -1,4 +1,4 @@
-# 🧭 A* Pathfinding Algorithm (Lab 2)
+# 🧭 A* Pathfinding Algorithm
 
 ## 📌 Giới thiệu
 
